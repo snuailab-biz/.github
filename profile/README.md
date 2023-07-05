@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+SNUAiLab 사업개발부 Git입니다..🙋‍♀️
+
 <!--
 
 **Here are some ideas to get you started:**
